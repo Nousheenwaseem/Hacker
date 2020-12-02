@@ -10,6 +10,10 @@ The most complete Phishing Tool, with 32 templates +1 customizable
 <img width="120%" src="https://github.com/rixon-cochi/rixon-cochi/blob/main/20201125_172855.png"/>
 </p>
 
+## DONATION 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/techcochi)
+
 ### LEGAL DISCLAIMER 
 Usage of **HACKER** for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
 
